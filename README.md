@@ -6,4 +6,4 @@ Default website of Microsoft IIS.
 
 -   `wwwroot` Default web site content.
 -   `custerr` Default en-US custom error messages.
--   `pages` OOBE fake IIS pages.
+-   `pages` Ready-to-use fake IIS pages.
