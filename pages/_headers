@@ -1,2 +1,5 @@
 /*
   Server: Microsoft-IIS/10.0
+  X-Powered-By: ASP.NET
+  X-AspNet-Version: 4.0.30319
+  X-AspNetMvc-Version: 5.2
